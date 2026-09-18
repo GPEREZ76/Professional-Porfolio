@@ -27,7 +27,7 @@ Data and Operations Analyst | Process Improvement | Reporting and Workflow Analy
 └── resume/
     └─[GUSTAVO ORTA-PEREZ 08082026.docx](https://github.com/user-attachments/files/32382734/GUSTAVO.ORTA-PEREZ.08082026.docx)
 
-# Your Name
+# Gustavo Orta-Perez
 
 ## Data and Operations Analyst
 
