@@ -141,5 +141,4 @@ can be used to identify bottlenecks and recommend improvements.
 
 - LinkedIn: [Your LinkedIn URL]
 - Email: gustavo.o.perez36@gmail.com
-- Resume: [View my resume](./resume/Your_Name_Resume.pdf)
-
+- Resume: [GUSTAVO ORTA-PEREZ 08082026.pdf](https://github.com/user-attachments/files/32414193/GUSTAVO.ORTA-PEREZ.08082026.pdf)
