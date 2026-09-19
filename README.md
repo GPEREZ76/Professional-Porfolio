@@ -138,6 +138,6 @@ can be used to identify bottlenecks and recommend improvements.
 
 ## Contact
 
-- LinkedIn: [[Your LinkedIn URL]](https://www.linkedin.com/in/gustavo-perez-2a483a120/)
+- LinkedIn: (https://www.linkedin.com/in/gustavo-perez-2a483a120/)
 - Email: gustavo.o.perez36@gmail.com
 - Resume: [GUSTAVO ORTA-PEREZ 08082026.pdf](https://github.com/user-attachments/files/32414193/GUSTAVO.ORTA-PEREZ.08082026.pdf)
