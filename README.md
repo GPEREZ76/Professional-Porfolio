@@ -1,3 +1,4 @@
+[GUSTAVO ORTA-PEREZ 08082026.docx](https://github.com/user-attachments/files/32414061/GUSTAVO.ORTA-PEREZ.08082026.docx)
 # Professional-Porfolio
 Data and Operations Analyst | Process Improvement | Reporting and Workflow Analysis
   professional-portfolio/
