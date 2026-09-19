@@ -140,6 +140,6 @@ can be used to identify bottlenecks and recommend improvements.
 ## Contact
 
 - LinkedIn: [Your LinkedIn URL]
-- Email: your.email@example.com
+- Email: gustavo.o.perez36@gmail.com
 - Resume: [View my resume](./resume/Your_Name_Resume.pdf)
 
